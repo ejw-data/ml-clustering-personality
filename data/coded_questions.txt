@@ -19,16 +19,16 @@ N7	I change my mood a lot.	Pos
 N8	I have frequent mood swings.	Pos
 N9	I get irritated easily.	Pos
 N10	I often feel blue.	Pos
-A1	I feel little concern for others.	Neg
-A2	I am interested in people.	Pos
-A3	I insult people.	Neg
-A4	I sympathize with others' feelings.	Pos
-A5	I am not interested in other people's problems.	Neg
-A6	I have a soft heart.	Pos
-A7	I am not really interested in others.	Neg
-A8	I take time out for others.	Pos
-A9	I feel others' emotions.	Pos
-A10	I make people feel at ease.	Pos
+A1	I feel little concern for others.	Pos
+A2	I am interested in people.	Neg
+A3	I insult people.	Pos
+A4	I sympathize with others' feelings.	Neg
+A5	I am not interested in other people's problems.	Pos
+A6	I have a soft heart.	Neg
+A7	I am not really interested in others.	Pos
+A8	I take time out for others.	Neg
+A9	I feel others' emotions.	Neg
+A10	I make people feel at ease.	Neg
 C1	I am always prepared.	Pos
 C2	I leave my belongings around.	Neg
 C3	I pay attention to details.	Pos
