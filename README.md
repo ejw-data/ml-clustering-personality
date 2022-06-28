@@ -1,6 +1,5 @@
 # ml-clustering-personality
 
-
 Author:  Erin James Wills, ejw.data@gmail.com  
 
 ![Personality Test Clustering](./images/personality-clustering.png)  
@@ -9,6 +8,8 @@ Author:  Erin James Wills, ejw.data@gmail.com
 ## Overview  
 <hr>  
 After helping a person with manipulating the data and disucssing some methods that they could use to classify the model, I decided to play with the data set and perform my own review.  The goal of the analysis is to compare the clustering results and determine if any intersting interpretations can be obtained from the clusters.   
+
+>Note:  This is a work in progress and the repo needs cleaned up and additional parts of the jupyter notebook need pushed.  All content will be added as I interview for different positions.  
 
 <br>  
 
@@ -41,4 +42,3 @@ https://www.kaggle.com/lucasgreenwell/ocean-five-factor-personality-test-respons
 1. Run `exploratory_analysis.ipynb`  
 
 <br>
-
